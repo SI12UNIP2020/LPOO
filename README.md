@@ -5,4 +5,4 @@
 Caso deseje contribuir com o repositório, solicitar acesso ao repositório para a representante de turma.
 
 > [Acessar pasta de exercícios](LPOO)
-> [Lista 1 de exercícios](LPOO/Lista1)
+> * [Lista 1 de exercícios](LPOO/Lista1)
